@@ -1,0 +1,79 @@
+#wrap {
+    position: relative;
+}
+
+.text {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align:center;
+    position: absolute;
+    padding-left: 12px;
+    z-index: 2;
+} 
+
+.img {
+    position:relative;
+    height: 300px; 
+    width: 1420px;
+    margin: 3px;
+    
+}
+
+#wrap2 .brushes {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+ 
+    
+#wrap3 .frames {
+    background-color: lightcoral;
+    text-align: left;
+    font-family: helvetica;
+}
+#wrap #framesimg{
+    align-items: left;
+}
+
+#wrap3 h3  {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrap3 #start {
+    font-family:Helvetica;
+    font-weight:bold;
+    color:blue;
+}
+
+#wrap4 h2 {
+ background-color: skyblue;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 32px;
+ font-weight: bold;
+ color:white;
+ text-align: left;
+}
+
+#wrap4 h3 {
+ Font-family:helvetica;
+ font-weight: bold;
+ text-align: left;
+ color:black;
+}
+
+#wrap4 p {
+    text-align: left;
+    color:black;
+}
+#wrap4 #start2 {
+    color:blue;
+    text-align: left;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+
